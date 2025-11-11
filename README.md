@@ -1,6 +1,6 @@
 ## Olá eu sou a Geovanna Borges
 
-- 📚 Atualmente estudando as linguagens de programação em C, Python e JavaScript
+- 📚 Atualmente estudando as linguagens de programação C, Python e JavaScript
 - 🧠 Sempre buscando aprender mais sobre desenvolvimento e tecnologia
 
 ---
