@@ -2,6 +2,7 @@
 
 - 📚 Atualmente estudando as linguagens de programação C, Python e JavaScript
 - 🧠 Sempre buscando aprender mais sobre desenvolvimento e tecnologia
+- 💻 Gosto de trabalhar tanto com front-end quanto com back-end
 
 ---
 
@@ -10,16 +11,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
-
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  <a href="https://github.com/geovanna-borges">
-   <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geovanna-Borges&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geovanna-Borges&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+### 🌐 Onde me encontrar
+<a href="https://github.com/Geovanna-Borges" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/geovanna.a.borges/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/geovanna-a-borges" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ✨ Obrigada por visitar meu perfil!  
-
